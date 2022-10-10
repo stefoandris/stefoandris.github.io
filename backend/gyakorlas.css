@@ -1,0 +1,38 @@
+body {
+    background-color: papayawhip;
+    color: saddlebrown; 
+    width: 1000px;
+    margin: 0 auto;
+    display: block; 
+ }
+ #fokeret {
+     width: 1000px;
+ }
+ #fejlec{
+     width: 1000px;
+     padding: 20px;
+     background-image: url(/img/szines.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ h1 {
+     color: black;
+ }
+ p{ 
+    text-align: justify; 
+ }
+ .tablazat{
+     width: 300px;
+     margin: auto;
+     border-collapse: collapse;
+     font-weight: bold;
+ }
+ #menu {
+     width: 250px;
+     padding: 10px;
+     float: left;
+ }
+ #tartalom {
+     width: 650px;
+     float: right;
+     padding: 20px;

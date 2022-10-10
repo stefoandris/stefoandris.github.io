@@ -1,0 +1,82 @@
+#fokeret {
+    width: 1000px;
+    padding: 30px;
+    text-align: justify;
+
+}
+#fejlec{
+    width: 1000px;
+    padding: 20px;
+    background-image: url(/img/szines.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+   background-color: papayawhip;
+   color: saddlebrown; 
+   width: 500px;
+}
+.menu {
+    width: 25%;
+    float: left;
+    padding: 15px;
+}
+      
+.tartalom {
+    padding: 15px;
+    width: 65%;
+    float: right;
+}
+.tartalom {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.menu ul {
+    list-style-type: none;
+    list-style-image: url(/img/chili-pepper-icon.gif);
+    margin: 50px;
+    padding: 10px;
+}
+  
+.menu li {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: white;
+    color: black
+}
+.menu li:hover {
+        background-color: #0099cc;
+}
+
+table {
+    width: 300px;
+    border: 1px solid;
+    text-align: center;
+}
+th {
+    width: 120px;
+    border: 1px solid;
+}
+td {
+    border: 1px solid #838383;
+    padding: 5px;
+    font-weight: bold;
+}
+.oszlop{
+    text-align: center;
+    width: 12px;
+}
+#zold {
+    background-color: green;
+}
+#sarga {
+    background-color: yellow;
+}
+#piros {
+    background-color: red;
+}
+#lila {
+    background-color: rgb(215, 135, 215);
+}
